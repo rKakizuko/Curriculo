@@ -1,0 +1,53 @@
+body{
+    background-color: #eee;
+}
+#ImgHead{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    border: 1px solid;
+    margin-right: 500px;
+}
+#NomeHead{
+    font-size: 2vw;
+    font-family: "Work Sans", sans-serif;
+}
+header{
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start;
+    padding: 20px; 
+    background-color: #d6d5d5;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #333;
+    border-bottom: 2px solid #b3b3b3;
+    border-top: 2px solid #b3b3b3;
+    padding-bottom: 5px;
+    background-color: beige;
+
+}
+.CursosCert ul li{
+    margin-bottom: 5px;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:hover, :active{
+    text-decoration: none;
+    color: rgb(120, 121, 99);
+}
+a:visited{
+    color: green;
+    text-decoration: none;
+}
+
+a:link:active, a:visited:active {
+    color: (internal value);
+  }
+
