@@ -31,8 +31,18 @@ section h2 {
     background-color: beige;
 
 }
+.DadosP ul li{
+    font-family:"Work Sans", sans-serif;
+}
+.escolaridade ul li{
+    font-family:"Work Sans", sans-serif;
+}
+.ExpProf ul li{
+    font-family:"Work Sans", sans-serif;
+}
 .CursosCert ul li{
     margin-bottom: 5px;
+    font-family:"Work Sans", sans-serif;
 }
 a:link{
     text-decoration: none;
